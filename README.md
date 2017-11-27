@@ -1,32 +1,30 @@
 # _My First Webpage_
 
-#### _HTML, README Practice, Aug, 1st 2017_
+#### _HTML and README Practice, 08.01.2017_
 
 #### By _**Michael Holland, Margaret Berry**_
 
 ## Description
+_This is a list the things I will learn in this course._
 
-_This is an illustration of the things i will learn in this course._
+## Setup and Installation Instructions
+_Run the following commands in Terminal:_
 
-## Setup/Installation Requirements
+1. `$ git clone` [this repository](https://github.com/codemargaret/my-first-webpage.git)
+2. `$ cd epicodus_project`
+3. `$ open index.html`
 
-* _Clone directory from Github_
-* _Open file in Atom_
-* _Make webpage more thourough_
-
+_Open in your preferred text editor for a closer look at the code._
 
 ## Known Bugs
-
-_Very rudimentary webpage. No known bugs!_
+_There are no known bugs at this time._
 
 ## Support and contact details
+_If you have any updates, questions, or suggestions please contact Michael Holland or [Margaret] Berry at Epicodus or make a contribution._
 
-_For comments, concerns, or even support contact Michael Holland or Margaret Berry at Epicodus!_
+[Margaret]: mailto:margaretshelaghmcgovern@gmail.com
 
 ## Technologies Used
-
-* _Github_
-* _Atom_
 * _HTML_
 
 ### License
