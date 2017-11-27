@@ -11,8 +11,8 @@ _This is a list the things I will learn in this course._
 _Run the following commands in Terminal:_
 
 1. `$ git clone` [this repository](https://github.com/codemargaret/my-first-webpage.git)
-2. `$ cd epicodus_project`
-3. `$ open index.html`
+2. `$ cd my-first-webpage`
+3. `$ open my-first-webpage.html`
 
 _Open in your preferred text editor for a closer look at the code._
 
