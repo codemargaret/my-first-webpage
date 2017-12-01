@@ -22,7 +22,7 @@ _There are no known bugs at this time._
 ## Support and contact details
 _If you have any updates, questions, or suggestions please contact Michael Holland or [Margaret] Berry at Epicodus or make a contribution._
 
-[Margaret]: mailto:margaretshelaghmcgovern@gmail.com
+[Margaret]: mailto:codeberry1@gmail.com
 
 ## Technologies Used
 * _HTML_
